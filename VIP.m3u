@@ -12,6 +12,6 @@ https://s20.fastream.to/hls2/05/00013/ahpw7zcwv1oc_,l,n,.urlset/index-f2-v1-a1.m
 #EXTINF:2 tvg-logo="https://img.asmedia.epimg.net/resizer/kOEmXGAp0RNjOSvhwn9THAMzD_I=/644x362/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/25IAY3O4ZVF4LPEHALL2C7Y4YU.jpg" group-title="Pelicula",Transformers - el despertar de las bestias
 https://delivery-node-udlqdgygi1ljjwrp.voe-network.net/engine/hls2-c/01/09241/qsjnpamfmomz_,n,.urlset/master.m3u8?t=f3lh3ku0vTQpk8NAyz8Il4Jbgfjvl8yPEzjszFN4huI&s=1691120469&e=14400&f=46205640&node=delivery-node-2pgzfbaztt9uxwbd.voe-network.net&i=191.126&sp=2500&asn=7418
 
-#EXTINF:-1 tvg-id="Pelicula" tvg-logo="" group-title="The Transformer",el despertar de las bestias (HD)
+#EXTINF:-1 tvg-id="Pelicula" tvg-logo="https://img.asmedia.epimg.net/resizer/kOEmXGAp0RNjOSvhwn9THAMzD_I=/644x362/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/25IAY3O4ZVF4LPEHALL2C7Y4YU.jpg" group-title="Pelicula",El despertar de las bestias (HD)
 https://delivery-node-udlqdgygi1ljjwrp.voe-network.net/engine/hls2-c/01/09241/qsjnpamfmomz_,n,.urlset/master.m3u8?t=f3lh3ku0vTQpk8NAyz8Il4Jbgfjvl8yPEzjszFN4huI&s=1691120469&e=14400&f=46205640&node=delivery-node-2pgzfbaztt9uxwbd.voe-network.net&i=191.126&sp=2500&asn=7418
 
