@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://bolavip.com/__export/1681919916335/sites/bolavip/img/2023/04/19/insidious-la-puerta-roja-presenta-trailer-la-noche-del-demonio-5-ok.jpeg_242310155.jpeg" group-title="La noche del demonio",La noche del demonio - La puerta roja
 https://ees45cuz.sw-cdnstream.com/hls2/01/00814/ip6j5s453fcm_n/index-v1-a2.m3u8?t=yDwQRD7k1E435IRMRtstv8oqnMSW1XBkHtJAZT8Al8E&s=1691104818&e=129600&f=4332397&srv=M5MMs06q1icp&i=0.0&sp=500&p1=M5MMs06q1icp&p2=M5MMs06q1icp
+
 #EXTINF:-1 tvg-logo="https://lumiere-a.akamaihd.net/v1/images/image_be473c63.jpeg?region=0%2C0%2C540%2C810" group-title="La Sirenta",La sirenita - La sirenita ( 2023 )
 https://jj4o1241.sw-cdnstream.com/hls2/01/00757/cx7rfa3b8c1j_h/index-v1-a2.m3u8?t=IaVFiMdektM6Mu-ay8VA8v_-vyGvOzs57is76C3ZOPg&s=1691106208&e=129600&f=3785125&srv=sCqs2YJXhNVn&i=0.0&sp=500&p1=sCqs2YJXhNVn&p2=sCqs2YJXhNVn
 #EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/306809855/s592/los-simpson" group-title="Los Simpson",Los Simpson - Los Simpson ( 2007 )
@@ -9,4 +10,7 @@ https://s20.fastream.to/hls2/05/00013/ahpw7zcwv1oc_,l,n,.urlset/index-f2-v1-a1.m
 https://delivery-node-udlqdgygi1ljjwrp.voe-network.net/engine/hls2-c/01/09241/qsjnpamfmomz_,n,.urlset/master.m3u8?t=f3lh3ku0vTQpk8NAyz8Il4Jbgfjvl8yPEzjszFN4huI&s=1691120469&e=14400&f=46205640&node=delivery-node-2pgzfbaztt9uxwbd.voe-network.net&i=191.126&sp=2500&asn=7418
 #EXTINF:-1 tvg-id="Pelicula" tvg-logo="https://img.asmedia.epimg.net/resizer/kOEmXGAp0RNjOSvhwn9THAMzD_I=/644x362/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/25IAY3O4ZVF4LPEHALL2C7Y4YU.jpg" group-title="Pelicula",El despertar de las bestias (HD)
 https://delivery-node-udlqdgygi1ljjwrp.voe-network.net/engine/hls2-c/01/09241/qsjnpamfmomz_,n,.urlset/master.m3u8?t=f3lh3ku0vTQpk8NAyz8Il4Jbgfjvl8yPEzjszFN4huI&s=1691120469&e=14400&f=46205640&node=delivery-node-2pgzfbaztt9uxwbd.voe-network.net&i=191.126&sp=2500&asn=7418
+
+#EXTINF:-1 tvg-logo="https://bolavip.com/__export/1681919916335/sites/bolavip/img/2023/04/19/insidious-la-puerta-roja-presenta-trailer-la-noche-del-demonio-5-ok.jpeg_242310155.jpeg" group-title="La noche del demonio",La noche del demonio - La pDerta roja
+https://ees45cuz.sw-cdnstream.com/hls2/01/00814/ip6j5s453fcm_n/index-v1-a2.m3u8?t=yDwQRD7k1E435IRMRtstv8oqnMSW1XBkHtJAZT8Al8E&s=1691104818&e=129600&f=4332397&srv=M5MMs06q1icp&i=0.0&sp=500&p1=M5MMs06q1icp&p2=M5MMs06q1icp
 
